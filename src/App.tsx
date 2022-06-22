@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://towardsaws.com/step-by-step-guide-to-set-up-ci-cd-pipeline-using-aws-code-pipeline-and-elastic-beanstalk-for-50ca275b0a37"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Created using this article
         </a>
       </header>
     </div>
